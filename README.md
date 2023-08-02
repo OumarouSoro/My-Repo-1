@@ -1,2 +1,2 @@
 # My-Repo-1
-This repo contains my bioinformatics training materials 
+_**This repo contains my bioinformatics training materials**_ 
